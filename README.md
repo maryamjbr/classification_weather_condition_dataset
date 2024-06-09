@@ -9,7 +9,7 @@ This project aims to perform clustering on a weather condition dataset and evalu
 ## Contents
 
 - `Project_2_datamining.ipynb`: Jupyter Notebook containing the entire project workflow.
-- `data/`: Directory containing the weather condition dataset used in this project.
+- `Dataset.csv`: Directory containing the weather condition dataset used in this project.
 
 
 ## Requirements
