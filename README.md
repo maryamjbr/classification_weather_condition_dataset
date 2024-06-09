@@ -74,5 +74,5 @@ jupyter notebook Project_2_datamining.ipynb
 
 ## Results
 
-The results of the classification, evaluation, and rain prediction will be saved in the `results/` directory. Detailed analysis and plots can be found in the Jupyter Notebook.
+Detailed analysis and plots can be found in the Jupyter Notebook.
 
